@@ -3,4 +3,14 @@
     --bs-primary-rgb: 198,141,0;
     --bs-secondary: #ffe6ac;
     --bs-secondary-rgb: 255,230,172;
+
+    
+}
+
+.navbar-brand {
+    margin-right: 0;
+}
+
+.btn-outline-primary{
+    --bs-btn-color: #c78c06;
 }
